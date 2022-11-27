@@ -1,0 +1,63 @@
+table, th, td {
+    border: 0px solid white;
+    border-collapse: collapse;
+  }
+  th {
+      background-color: #259ed9;
+      padding: 1rem;
+      color: #191458;
+      font-size: 25px;
+  }
+  td{
+      text-align: center;
+  }
+  .valed{
+    background-color: #d3d3d3;
+    padding: 1rem;
+    color: #000000;
+    font-size: 25px;
+  }
+  .invalid{
+    background-color: #838383;
+    padding: 1rem;
+    color: #000000;
+    font-size: 25px; 
+  }
+  table{
+      margin: auto;
+      margin-top: 5rem;
+  }
+  body{
+      background: url(../img/Mawarid_001\ copy.png);
+      background-repeat: no-repeat;
+     background-size: cover;
+     width: 90%;
+  }
+  .child{
+      padding: 1rem 2rem;
+      margin: 2rem ;
+      width: 10%;
+      border-radius: 1rem;
+      color: #add1e3;
+      font-size: 25px;
+      background-color: #191458;
+  }
+  button{
+    padding: 1rem .5rem;
+    width: 10%;
+    border-radius: 1rem ;
+    border: none;
+    color: #ffffff;
+    font-size: 25px;
+    background-color: #259ed9;
+  }
+  .input{
+      font-size: 30px;
+      color: #282463;
+      padding-right: 1rem;
+  }
+  .class{
+      padding-right: 22rem;
+padding-top: 2rem;
+padding-bottom: 2rem;
+  }
